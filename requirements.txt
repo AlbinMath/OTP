@@ -1,0 +1,4 @@
+# This project currently uses only Python Standard Libraries.
+# (http.server, json, random)
+# No external dependencies are required.
+# If you add external packages (like requests, Flask, etc.) in the future, list them here.
